@@ -1,3 +1,4 @@
+version: '3.8'
 services:
   my-web:
     # 🌟 イメージ名を GHCR の形式に変更
