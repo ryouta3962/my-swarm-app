@@ -2,7 +2,7 @@ version: '3.8'
 services:
   my-web:
     # 🌟 イメージ名を GHCR の形式に変更
-    image: ghcr.io/ryoute3962/my-swarm-app:latest
+    image: ghcr.io/ryouta3962/my-swarm-app:latest
     ports:
       - "8080:80"
     deploy:
